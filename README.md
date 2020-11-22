@@ -1,5 +1,6 @@
 # LHL_middle_term_project
-This repository is for Light House Labs Middle Term Project
+This repository is for Light House Labs Middle Term Project.
+
 This repository consists of following files:
 
 - **exploratory_analysis.ipynb**: this file contains 10 questions we need to answer during the data exploration phase. They will help us to understand the data and become familiar with different variables.
